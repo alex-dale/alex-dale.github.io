@@ -1,0 +1,52 @@
+body,
+html{
+  width: 100%;
+  height: 100%
+}
+
+hr{
+    max-width: 65px;
+  border-width: 3px;
+  border-color: #F05F44; 
+
+}
+
+header.back hr{
+    margin-top: 300px;
+    margin-bottom: 20px;
+}
+
+header.back h1{
+    font-weight: 700;
+    font-family:'Merriweather Sans', sans-serif;
+    font-size: 80px;
+
+}
+.back{
+    background-image: url(alex.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+
+.btn123{
+    background-color: #1A5E61;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: white;
+    font-weight: 300;
+    border-radius: 10px 10px;
+
+}
+
+.btn123:hover{
+    cursor: pointer;
+    background-color: #28A5AB;
+
+
+}
+
+.btn-xl{
+    padding: 0.5rem 1rem;
+}
+
+
